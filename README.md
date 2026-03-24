@@ -1,4 +1,3 @@
-[index.html](https://github.com/user-attachments/files/26207910/index.html)
 <!DOCTYPE html>
 <html class="no-js" lang="en"><head>
     <meta charset="utf-8">

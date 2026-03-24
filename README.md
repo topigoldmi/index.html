@@ -1,0 +1,357 @@
+[index.html](https://github.com/user-attachments/files/26207910/index.html)
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="content-language" content="en">
+
+    <title>Trang chủ - Tập đoàn Vingroup</title>
+<meta name="title" content="Vingroup - Mãi mãi tinh thần khởi nghiệp">
+<meta name="description" content="Với mong muốn đem đến cho thị trường những sản phẩm - dịch vụ theo tiêu chuẩn quốc tế và những trải nghiệm hoàn toàn mới về phong cách sống hiện đại, ở bất cứ lĩnh vực nào Vingroup cũng chứng tỏ vai trò tiên phong, dẫn dắt sự thay đổi xu hướng tiêu dùng.">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Vingroup - Mãi mãi tinh thần khởi nghiệp">
+<meta property="og:description" content="Với mong muốn đem đến cho thị trường những sản phẩm - dịch vụ theo tiêu chuẩn quốc tế và những trải nghiệm hoàn toàn mới về phong cách sống hiện đại, ở bất cứ lĩnh vực nào Vingroup cũng chứng tỏ vai trò tiên phong, dẫn dắt sự thay đổi xu hướng tiêu dùng.">
+<meta property="og:url" content="https://vingroup.net/">
+<meta property="og:site_name" content="VinGroup">
+<meta property="og:image" content="https://vingroup.net/assets/images/share-social.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="fb:app_id" content="810525242676524">
+
+
+    <meta name="webroot" content=".">
+    <!-- Viewport and mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0">
+
+    <!-- FAVICON -->
+    <link rel="image_src" href="https://vingroup.net/assets/favicon.png">
+    <link rel="icon" type="image/jpeg" href="https://vingroup.net/assets/favicon.png">
+
+    <link rel="stylesheet" href="https://vingroup.net/assets/css/main.css">
+    <link rel="stylesheet" href="https://vingroup.net/assets/css/styles.css">
+<link data-loader="GLoader" rel="stylesheet" type="text/css" href="https://vingroup.net/assets/css/pure.css"><link data-loader="GLoader" rel="stylesheet" type="text/css" href="https://vingroup.net/assets/css/helper.css"><link data-loader="GLoader" rel="stylesheet" type="text/css" href="https://vingroup.net/assets/css/sweetalert2.css"><link data-loader="GLoader" rel="stylesheet" type="text/css" href="https://vingroup.net/assets/js/plugins/nanoscroller/nanoscroller.css"></head>
+<body>
+    <header>
+        <!-- Thường chứa LOGO, MENU NAVIGATION,... -->
+        <div class="hdContainer">
+            <a class="logo" href="/" style="background-image: url('https://vingroup.net/assets/images/logo.png');">
+                <img src="https://vingroup.net/assets/images/logo.png">
+            </a>
+            <div class="hamburger-menu">
+                <div class="bar"></div>
+            </div>
+            <div class="botHd">
+                <a class="btnSearch" href="/tim-kiem"></a>
+                <p>
+                        <a href="/en">EN</a><em>|</em><span>VN</span>
+                </p>
+            </div>
+        </div>
+
+        <div class="ctMenu">
+            <nav>
+                <ul id="nav">
+                    <li><a href="/" class="active">Trang chủ</a></li>
+                    <li><a href="/gioi-thieu" class="">Giới thiệu Tập đoàn</a></li>
+                    <li class="hasSub">
+                        <a href="/linh-vuc-hoat-dong" class="">Lĩnh vực hoạt động</a>
+                        <div class="submenu">
+
+                                <a href="/linh-vuc-hoat-dong/cong-nghe-br-cong-nghiep">Công nghệ  - Công nghiệp</a>
+                                <a href="/linh-vuc-hoat-dong/thuong-mai-br-dich-vu">Thương mại  Dịch vụ</a>
+                                <a href="/linh-vuc-hoat-dong/ha-tang">Hạ tầng</a>
+                                <a href="/linh-vuc-hoat-dong/nang-luong-xanh">Năng lượng xanh</a>
+                                <a href="/linh-vuc-hoat-dong/van-hoa">Văn Hóa</a>
+                                <a href="/linh-vuc-hoat-dong/thien-nguyen-br-xa-hoi">Thiện nguyện  Xã hội</a>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/phat-trien-ben-vung" class="">Phát triển bền vững</a>
+                    </li>
+                    <li><a href="/quan-he-co-dong" class="">Quan hệ cổ đông</a></li>
+                    <li><a href="/tin-tuc-su-kien" class="">Tin tức sự kiện</a></li>
+                </ul>
+                <div class="subLink">
+                    <a href="https://tuyendung.vingroup.net/" target="_blank" class="">Tuyển dụng</a>
+                    <a href="/lien-he" class="">Liên hệ</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main id="pHome">
+
+        
+
+<section id="bannerHome">
+    <script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/1ebf2aa6/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/player_api"></script>
+    <div class="bannerHome slider stagger-up slick-initialized slick-slider" style="opacity: 1;">
+                <div aria-live="polite" class="slick-list draggable" style="height: 885px;"><div class="slick-track" role="listbox" style="opacity: 1; width: 400px; transform: translate3d(0px, 0px, 0px);"><div class="item slick-slide slick-current slick-active" style="background: url(&quot;https://ircdn.vingroup.net/storage/Uploads/Photos/Landmark81banner.jpg&quot;) center center no-repeat; width: 400px;" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00">
+                    <div class="container">
+                        <img class="img" src="https://ircdn.vingroup.net/storage/Uploads/Photos/Landmark81banner.jpg">
+                        <div class="copy">
+                            <h3>Vì một cuộc sống tốt đẹp hơn cho mọi người</h3>
+                        </div>
+                    </div>
+                </div></div></div>
+    </div>
+    <a class="scrolldown js-scrollCt" data=".newsHomeWrap" href="">
+        <!-- <span>Scroll Down</span> -->
+        <span>Cuộn<br>xuống</span>
+        <img class="ar" src="https://vingroup.net/assets/images/scrolldown-icon.png">
+    </a>
+</section>
+
+<section class="newsHomeWrap">
+    <div section=".newsHomeWrap" data="200" class="container paralax">
+        <a href="/tin-tuc-su-kien">
+            <h2 class="title">Tin tức sự kiện</h2>
+        </a>
+        <ul class="newsHomeList">
+
+    <li>
+        <div class="itemNews">
+            <div class="img">
+                <div style="background: url('https://ircdn.vingroup.net/storage/Uploads/0_Tintuchoatdong/2026/T3/VNA.jpeg') center"></div>
+                <img src="https://vingroup.net/assets/images/news-gif.png">
+            </div>
+            <div class="copy">
+                <h4></h4>
+                <h3>VINGROUP VÀ TỔNG CÔNG TY CẢNG HÀNG KHÔNG VIỆT NAM HỢP TÁC THÚC ĐẨY CHUYỂN ĐỔI XANH</h3>
+                    <p>23-03-2026</p>
+            </div>
+            <a class="link" href="/tin-tuc-su-kien/bai-viet/4854/vingroup-va-tong-cong-ty-cang-hang-khong-viet-nam-hop-tac-thuc-day-chuyen-doi-xanh"></a>
+        </div>
+    </li>
+
+    <li>
+        <div class="itemNews">
+            <div class="img">
+                <div style="background: url('https://ircdn.vingroup.net/storage/Uploads/0_Tintuchoatdong/2026/T3/23.3.JPG') center"></div>
+                <img src="https://vingroup.net/assets/images/news-gif.png">
+            </div>
+            <div class="copy">
+                <h4></h4>
+                <h3>VINFAST ẤN ĐỘ HỢP TÁC CÙNG NGÂN HÀNG CSB,  CUNG CẤP GIẢI PHÁP TÀI CHÍNH XE ĐIỆN TOÀN DIỆN</h3>
+                    <p>23-03-2026</p>
+            </div>
+            <a class="link" href="/tin-tuc-su-kien/bai-viet/4853/vinfast-an-do-hop-tac-cung-ngan-hang-csb-cung-cap-giai-phap-tai-chinh-xe-dien-toan-dien"></a>
+        </div>
+    </li>
+
+    <li>
+        <div class="itemNews">
+            <div class="img">
+                <div style="background: url('https://ircdn.vingroup.net/storage/Uploads/0_Tintuchoatdong/2026/T3/A1.jpg') center"></div>
+                <img src="https://vingroup.net/assets/images/news-gif.png">
+            </div>
+            <div class="copy">
+                <h4></h4>
+                <h3>VINHOMES HỖ TRỢ KHÁCH HÀNG GIỮA CƠN BÃO LÃI SUẤT</h3>
+                    <p>20-03-2026</p>
+            </div>
+            <a class="link" href="/tin-tuc-su-kien/bai-viet/4852/vinhomes-ho-tro-khach-hang-giua-con-bao-lai-suat"></a>
+        </div>
+    </li>
+        </ul>
+        <div class="btn-wrap">
+            <a class="btn-2" href="/tin-tuc-su-kien">Xem tất cả</a>
+        </div>
+    </div>
+</section>
+
+<section class="cateHomeWrap">
+    <div class="container">
+        <div class="contentwrap">
+            <div class="infoCate">
+                <div section=".cateHomeWrap" data="-200" class="paralax-hor">
+                    <h2>Lĩnh vực<br><span>Tiên phong</span></h2>
+                    <p>Với mong muốn đem đến cho thị trường những sản phẩm - dịch vụ theo tiêu chuẩn quốc tế và những trải nghiệm hoàn toàn mới về phong cách sống hiện đại, ở bất cứ lĩnh vực nào Vingroup cũng chứng tỏ vai trò tiên phong, dẫn dắt sự thay đổi xu hướng tiêu dùng.</p>
+                    <div class="dragMouse">
+                        <img src="https://vingroup.net/assets/images/mouse.png">
+                        <p><img src="https://vingroup.net/assets/images/ar-drag-l.png"><span>Trượt để khám phá</span><img src="https://vingroup.net/assets/images/ar-drag-r.png"></p>
+                    </div>
+                </div>
+            </div>
+            <ul section=".cateHomeWrap" data="200" class="listCateHome paralax-hor slick-initialized slick-slider" style="opacity: 1;">
+
+                    <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 2261px; transform: translate3d(0px, 0px, 0px);"><li class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide10" style="width: 323px;">
+                        <div class="item cate-1">
+                            <div class="ico"><img src="https://vingroup.net/assets/images/b.gif"></div>
+                            <h2 style="height: 96px;">Công nghệ <br> - Công nghiệp</h2>
+                            <div class="content">
+                                <div class="img" style="background: url(https://ircdn.vingroup.net/storage/Public/2023/VF9 Shot 07.jpg) center">
+                                    <img src="https://vingroup.net/assets/images/thumb-cate.gif">
+                                </div>
+                                <div class="copy">
+                                    <p></p>
+                                    <a class="btn-2" href="/linh-vuc-hoat-dong/cong-nghe-br-cong-nghiep" tabindex="0">Xem thêm</a>
+                                </div>
+                            </div>
+                            <a class="link" href="/linh-vuc-hoat-dong/cong-nghe-br-cong-nghiep" tabindex="0"></a>
+                        </div>
+                    </li><li class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide11" style="width: 323px;">
+                        <div class="item cate-2">
+                            <div class="ico"><img src="https://vingroup.net/assets/images/b.gif"></div>
+                            <h2 style="height: 96px;">Thương mại <br> Dịch vụ</h2>
+                            <div class="content">
+                                <div class="img" style="background: url(https://ircdn.vingroup.net/storage/public/2019/07/tri-20190725T021336676451.jpg) center">
+                                    <img src="https://vingroup.net/assets/images/thumb-cate.gif">
+                                </div>
+                                <div class="copy">
+                                    <p>Với mảng Thương mại Dịch vụ - Vingroup tiếp tục đẩy mạnh, hoàn thiện và nâng cấp chất lượng cũng như hiệu quả hoạt động. Thương mại dịch vụ là hệ sinh thái quan trọng để hỗ trợ công tác nghiên cứu và thương mại hóa các sản ...</p>
+                                    <a class="btn-2" href="/linh-vuc-hoat-dong/thuong-mai-br-dich-vu" tabindex="0">Xem thêm</a>
+                                </div>
+                            </div>
+                            <a class="link" href="/linh-vuc-hoat-dong/thuong-mai-br-dich-vu" tabindex="0"></a>
+                        </div>
+                    </li><li class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide12" style="width: 323px;">
+                        <div class="item cate-3">
+                            <div class="ico"><img src="https://vingroup.net/assets/images/b.gif"></div>
+                            <h2 style="height: 96px;">Hạ tầng</h2>
+                            <div class="content">
+                                <div class="img" style="background: url(https://ircdn.vingroup.net/storage/Public/2025/Ha tang.jpg) center">
+                                    <img src="https://vingroup.net/assets/images/thumb-cate.gif">
+                                </div>
+                                <div class="copy">
+                                    <p></p>
+                                    <a class="btn-2" href="/linh-vuc-hoat-dong/ha-tang" tabindex="-1">Xem thêm</a>
+                                </div>
+                            </div>
+                            <a class="link" href="/linh-vuc-hoat-dong/ha-tang" tabindex="-1"></a>
+                        </div>
+                    </li><li class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide13" style="width: 323px;">
+                        <div class="item cate-4">
+                            <div class="ico"><img src="https://vingroup.net/assets/images/b.gif"></div>
+                            <h2 style="height: 96px;">Năng lượng xanh</h2>
+                            <div class="content">
+                                <div class="img" style="background: url(https://ircdn.vingroup.net/storage/Public/2025/VinEnergo_website.png) center">
+                                    <img src="https://vingroup.net/assets/images/thumb-cate.gif">
+                                </div>
+                                <div class="copy">
+                                    <p></p>
+                                    <a class="btn-2" href="/linh-vuc-hoat-dong/nang-luong-xanh" tabindex="-1">Xem thêm</a>
+                                </div>
+                            </div>
+                            <a class="link" href="/linh-vuc-hoat-dong/nang-luong-xanh" tabindex="-1"></a>
+                        </div>
+                    </li><li class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide14" style="width: 323px;">
+                        <div class="item cate-5">
+                            <div class="ico"><img src="https://vingroup.net/assets/images/b.gif"></div>
+                            <h2 style="height: 96px;">Văn Hóa</h2>
+                            <div class="content">
+                                <div class="img" style="background: url(https://ircdn.vingroup.net/storage/Public/2025/Van hoa.jpg) center">
+                                    <img src="https://vingroup.net/assets/images/thumb-cate.gif">
+                                </div>
+                                <div class="copy">
+                                    <p>Gia nhập lĩnh vực văn hóa với khát vọng phụng sự đất nước, Vingroup xác định ba mục tiêu trọng tâm của trụ cột mới là bảo tồn các giá trị văn hóa truyền thống của dân tộc; thúc đẩy sáng tạo và phát triển ...</p>
+                                    <a class="btn-2" href="/linh-vuc-hoat-dong/van-hoa" tabindex="-1">Xem thêm</a>
+                                </div>
+                            </div>
+                            <a class="link" href="/linh-vuc-hoat-dong/van-hoa" tabindex="-1"></a>
+                        </div>
+                    </li><li class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide15" style="width: 323px;">
+                        <div class="item cate-6">
+                            <div class="ico"><img src="https://vingroup.net/assets/images/b.gif"></div>
+                            <h2 style="height: 96px;">Thiện nguyện <br> Xã hội</h2>
+                            <div class="content">
+                                <div class="img" style="background: url(https://ircdn.vingroup.net/storage/Public/2022/QTT 22.jpg) center">
+                                    <img src="https://vingroup.net/assets/images/thumb-cate.gif">
+                                </div>
+                                <div class="copy">
+                                    <p></p>
+                                    <a class="btn-2" href="/linh-vuc-hoat-dong/thien-nguyen-br-xa-hoi" tabindex="-1">Xem thêm</a>
+                                </div>
+                            </div>
+                            <a class="link" href="/linh-vuc-hoat-dong/thien-nguyen-br-xa-hoi" tabindex="-1"></a>
+                        </div>
+                    </li><li class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide16" style="width: 323px;"></li></div></div>
+                    
+                    
+                    
+                    
+                    
+                
+            </ul>
+        </div>
+    </div>
+</section>
+<section class="shareholdersHomeWrap">
+    <div class="container">
+        <a href="/quan-he-co-dong">
+            <h2 class="title">Quan hệ cổ đông</h2>
+        </a>
+        <div class="row">
+            <div section=".shareholdersHomeWrap" data="-200" class="left paralax-hor">
+                <h3>Giới thiệu Tập đoàn</h3>
+                <img src="https://ircdn.vingroup.net/storage/public/2019/07/DJI_0030-fixed2-mini-20190727T100030844048.jpg">
+                Tiền thân của Vingroup là Tập đoàn Technocom, thành lập năm 1993 tại Ucraina. Đầu những năm 2000, Technocom trở về Việt Nam, tập trung đầu tư vào lĩnh vực du lịch và bất động sản với hai thương hiệu chiến lược ban đầu là Vinpearl và Vincom. Đến tháng 1/2012, công ty CP Vincom và Công ty CP Vinpearl sáp nhập, chính thức hoạt động dưới mô hình Tập đoàn với tên gọi Tập đoàn Vingroup – Công ty CP. 
+            </div>
+            <div section=".shareholdersHomeWrap" data="200" class="right paralax-hor">
+               <!-- <iframe id="ifrMobile" src="https://solieu5.mediacdn.vn/ChartDN.aspx?symbol=VIC&amp;language=vi&amp;template=02&amp;device=mobile" frameborder="0" class="stockchart-iframe"></iframe> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+        <footer>
+            <!-- Chứa footer -->
+            <div class="loading" style="display: none;">
+                <div>
+                    <div class="outerCircle"></div>
+                    <div class="innerCircle"></div>
+                </div>
+            </div>
+
+            <div class="container">
+
+<div class="row">
+<div class="left">
+<div>
+<h4>Tập đoàn Vingroup (Vingroup JSC)</h4>
+<p>© Bản quyền Vingroup 2019</p>
+</div>
+<div>
+<p>Kết nối với chúng tôi:</p>
+</div>
+</div>
+<div class="right">
+<ul>
+<li><a href="/"><strong>Trang chủ</strong> </a></li><li><a href="https://vingroup.net/gioi-thieu"><strong>Giới thiệu Tập đoàn</strong>
+</a></li><li><a href="/linh-vuc-hoat-dong/cong-nghe"><strong>Lĩnh vực hoạt động</strong> </a>
+</li><li><a href="/quan-he-co-dong"><strong>Quan hệ cổ đông</strong> </a></li><li><a href="/phat-trien-ben-vung"><strong>Phát triển bền vững</strong> </a></li></ul>
+<ul>
+<li><a href="/tin-tuc-su-kien">Tin tức sự kiện</a> </li><li><a href="https://tuyendung.vingroup.net/" target="_blank" rel="noopener">Tuyển dụng</a>
+</li><li><a href="/lien-he">Liên hệ</a> </li></ul>
+</div>
+</div>
+<div class="botFooter">
+<p><a href="https://vingroup.net/phat-trien-ben-vung/3590/bao-ve-quyen-loi-nguoi-tieu-dung">Bảo vệ quyền lợi người tiêu dùng</a></p>
+<p></p>
+</div>
+            </div>
+        </footer>
+    </main>
+    <div id="popup" class="helper-hide">
+        <div class="holder helper-centerbox register"></div>
+        <div class="holder helper-centerbox login"></div>
+    </div>
+    <div id="preloader" class="helper-hide">
+        <div class="loader helper-centerbox">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10"></circle>
+            </svg>
+        </div>
+    </div>
+    <script>var path_resource = "https://vingroup.net/assets/";</script>
+    <script src="https://vingroup.net/assets//js/libraries/jquery.min.js"></script>
+    <script src="https://vingroup.net/assets//js/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <script src="https://vingroup.net/assets/js/main.js"></script>
+    <script src="https://vingroup.net/assets/js/app.js"></script>
+    <script src="https://vingroup.net/assets/js/functions.js"></script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;9e145e5b4b449c2c&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.9.1&quot;,&quot;token&quot;:&quot;02c01276e5844d23b4a7fb0431a0a429&quot;}" crossorigin="anonymous"></script>
+
+
+<div id="loading" style="width: 100%; height: 100%; background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkI2OTlFNzdGNkUwNzExRTM4NkNEQ0ZEM0FEMEFCRDgxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkI2OTlFNzgwNkUwNzExRTM4NkNEQ0ZEM0FEMEFCRDgxIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QjY5OUU3N0Q2RTA3MTFFMzg2Q0RDRkQzQUQwQUJEODEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QjY5OUU3N0U2RTA3MTFFMzg2Q0RDRkQzQUQwQUJEODEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5s3lSdAAAAGElEQVR42mJkYGDYzEAEYBxVSF+FAAEGABeIBwlGcNnyAAAAAElFTkSuQmCC&quot;) repeat; position: fixed; top: 0px; left: 0px; z-index: 999999; display: none;"><span class="csloading" style="width: 100%; height: 100%; background: url(&quot;data:image/gif;base64,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&quot;) center center no-repeat; position: fixed;"></span></div><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/libraries/jquery.min.js?v=826421"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/tweenmax/TweenMax.min.js?v=675398"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/digitop/helper.js?v=519472"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/digitop/popup.js?v=44644"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/digitop/preloader.js?v=645712"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/slick/slick.js?v=977261"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/nanoscroller/jquery.nanoscroller.min.js?v=70486"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/scrollmagic/ScrollMagic.min.js?v=821968"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/scrollmagic/plugins/animation.gsap.min.js?v=567003"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/plugins/scrollmagic/plugins/debug.addIndicators.min.js?v=9123"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/modules/common.js?v=2615"></script><script data-loader="GLoader" type="text/javascript" src="https://vingroup.net/assets/js/pages/pHome.js?v=662428"></script></body></html>
